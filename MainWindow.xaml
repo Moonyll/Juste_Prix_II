@@ -1,0 +1,49 @@
+﻿<Window x:Class="Juste_Prix_II.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Juste_Prix_II"
+        mc:Ignorable="d"
+        Title="Le Juste Prix Bonus" Height="450" Width="800">
+ 
+    <Grid>
+
+        <!--Définition des colonnes-->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <!--Définition des lignes-->
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock Name="juste_prix" Grid.Column="0" Grid.Row="0" HorizontalAlignment="Center" TextAlignment="Center" FontFamily="Impact" Foreground="#E6A174" FontWeight="bold" FontSize="30" Background="Transparent">Le Juste Prix</TextBlock>
+        <TextBlock Name="ajouter" Grid.Column="0" Grid.Row="1" HorizontalAlignment="Center" TextAlignment="Center" FontFamily="Impact" Foreground="black" FontWeight="bold" FontSize="25" Background="Transparent">Veuillez ajouter un article : </TextBlock>
+        <TextBox Name="article" Grid.Column="0" Grid.Row="2" HorizontalAlignment="Center" TextAlignment="Center" FontFamily="Impact" Foreground="black" FontWeight="bold" FontSize="25" Background="Transparent" Text="{Binding text, Mode=TwoWay}" Width="200"></TextBox>
+        <Button Content="Ajouter cet article" Grid.Column="0" Grid.Row="3" FontFamily="Impact" FontWeight="bold" FontSize="20" Background="#46C8CF" Click="Add_Article" Width="300">
+            
+        </Button>
+        <TextBlock Name="space" Grid.Column="0" Grid.Row="4" HorizontalAlignment="Center" TextAlignment="Center" FontFamily="Impact" FontWeight="bold" FontSize="30" Background="Black" >fffff</TextBlock>
+        <Button Content="Nouvelle Partie" Grid.Column="0" Grid.Row="5" FontFamily="Impact" FontWeight="bold" FontSize="20" Background="#E6A174" Click="New_Game" Width="300"></Button>
+        <TextBlock Name="deviner" Grid.Column="0" Grid.Row="6" HorizontalAlignment="Center" TextAlignment="Center" FontFamily="Impact" Foreground="black" FontWeight="bold" FontSize="25" Background="Transparent">Vous devez deviner le prix de cet objet :</TextBlock>
+        <TextBlock Name="objet" Grid.Column="0" Grid.Row="7" HorizontalAlignment="Center" TextAlignment="Center" FontFamily="Impact" Foreground=" 	#D53739" FontWeight="bold" FontSize="25" Background="Transparent">Article</TextBlock>
+        <TextBlock Name="indiquer" Grid.Column="0" Grid.Row="8" HorizontalAlignment="Center" TextAlignment="Center" FontFamily="Impact" Foreground="black" FontWeight="bold" FontSize="25" Background="Transparent">Indiquer un montant entre 1 et 100 :</TextBlock>
+        <TextBox Name="nombre" Grid.Column="0" Grid.Row="9" HorizontalAlignment="Center" TextAlignment="Center" FontFamily="Calibri" Foreground="black" FontWeight="bold" FontSize="25" Background="Transparent" Text="{Binding number, Mode=TwoWay}" Width="200"></TextBox>
+        <Button Content="Valider" Grid.Column="0" Grid.Row="10" FontFamily="Impact" FontWeight="bold" FontSize="20" Background="#46C8CF" Click="Validate" Width="200"></Button>
+        <TextBlock Name="info" Grid.Column="0" Grid.Row="11" HorizontalAlignment="Center" TextAlignment="Center" FontFamily="Impact" Foreground="Blue" FontWeight="bold" FontSize="25" Background="Transparent"></TextBlock>
+
+    </Grid>
+</Window>
+ 

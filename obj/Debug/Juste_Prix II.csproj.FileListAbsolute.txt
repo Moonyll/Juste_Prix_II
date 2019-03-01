@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix II\Juste_Prix II\Juste_Prix II\bin\Debug\Juste_Prix II.exe.config
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix II\Juste_Prix II\Juste_Prix II\bin\Debug\Juste_Prix II.exe
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix II\Juste_Prix II\Juste_Prix II\bin\Debug\Juste_Prix II.pdb
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix II\Juste_Prix II\Juste_Prix II\obj\Debug\Juste_Prix II.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix II\Juste_Prix II\Juste_Prix II\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix II\Juste_Prix II\Juste_Prix II\obj\Debug\App.g.cs
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix II\Juste_Prix II\Juste_Prix II\obj\Debug\Juste_Prix II_MarkupCompile.cache
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix II\Juste_Prix II\Juste_Prix II\obj\Debug\Juste_Prix II_MarkupCompile.lref
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix II\Juste_Prix II\Juste_Prix II\obj\Debug\MainWindow.baml
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix II\Juste_Prix II\Juste_Prix II\obj\Debug\Juste_Prix II.g.resources
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix II\Juste_Prix II\Juste_Prix II\obj\Debug\Juste_Prix_II.Properties.Resources.resources
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix II\Juste_Prix II\Juste_Prix II\obj\Debug\Juste_Prix II.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix II\Juste_Prix II\Juste_Prix II\obj\Debug\Juste_Prix II.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix II\Juste_Prix II\Juste_Prix II\obj\Debug\Juste_Prix II.exe
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix II\Juste_Prix II\Juste_Prix II\obj\Debug\Juste_Prix II.pdb
